@@ -24,11 +24,7 @@
 
 </p>
 
-
-
 <br>
-
-
 
 <!-- NAVIGATION TABS -->
 
@@ -38,8 +34,7 @@
 
   <a href="#about-me">
 
-    <img src="https://img.shields.io/badge/🌸%20About%20Me-C9B6E4?style=for-the-badge" />
-
+    <img src="https://img.shields.io/badge/🌷%20Personal-D8B9E2?style=for-the-badge&labelColor=2d134b&color=d8b9e2" />
   </a>
 
   <a href="#professional">
